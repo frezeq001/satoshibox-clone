@@ -17,5 +17,5 @@ Hello all, I developed a clone script application like satoshibox.com
 
 **Price** : 130 usd
 
-**telegram(for demo)** : frezeq001
+**telegram(for demo)** : @frezeq001
 
